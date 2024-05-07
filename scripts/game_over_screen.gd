@@ -7,4 +7,4 @@ func set_score(value):
 	$Panel/Score.text = "Score: " + str(value)
 
 func set_high_score(value):
-	$Panel/HighScore.text = "Hi-Score: " + str(value)
+	$Panel/HighScore.text = "Highest-Score: " + str(value)
